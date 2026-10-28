@@ -47,15 +47,8 @@ A full-stack platform connecting customers with service providers for job alloca
 
 ---
 
-### 🔹 User Management System
 
-A web-based application implementing user registration, authentication and management functionality.
-
-**Tech:** Java · MySQL · REST APIs
-
----
-
-### 🔹 Student Result Management System
+### 🔹 Student Grading System
 
 A desktop application for managing student records, marks and result calculations.
 
