@@ -42,11 +42,10 @@ A full-stack platform connecting customers with service providers for job alloca
 **Tech:** React.js · TypeScript · Spring Boot · MySQL · JWT
 
 <a href="https://github.com/Prince3045/RozgaarX">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project"/>
 </a>
 
 ---
-
 
 ### 🔹 Student Grading System
 
@@ -61,40 +60,40 @@ A desktop application for managing student records, marks and result calculation
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
 ### Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince3045&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3045&layout=compact&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince3045&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince3045&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 ---
@@ -102,38 +101,7 @@ A desktop application for managing student records, marks and result calculation
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince3045&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince3045&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince3045&theme=flat&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
-## ⭐ GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Prince3045?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Received" />
-  <img src="https://img.shields.io/github/followers/Prince3045?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/repo-size/Prince3045/RozgaarX?style=for-the-badge&logo=github&label=RozgaarX%20Size" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20My%20GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-0A66C2?style=for-the-badge" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince3045&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -148,7 +116,7 @@ A desktop application for managing student records, marks and result calculation
 
 <p align="center">
   <a href="https://leetcode.com/u/Prince__Goyal/">
-    <img src="https://img.shields.io/badge/LeetCode-@Prince__Goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-@Prince__Goyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -188,16 +156,16 @@ Scalable Full-Stack Applications
 
 <p align="center">
   <a href="mailto:princekumargoyal30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/prince-goyal30/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Prince3045">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/Prince__Goyal/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
