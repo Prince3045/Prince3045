@@ -73,7 +73,7 @@ A desktop application for managing student records, marks and result calculation
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 ### Databases
@@ -85,7 +85,7 @@ A desktop application for managing student records, marks and result calculation
 ### Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
